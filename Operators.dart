@@ -28,6 +28,5 @@ void main()
   print(3 is double); // false
   print("Enter something: ");
   int no=int.parse(stdin.readLineSync()??'0');
-  no??=20;
   print(no);
 }
