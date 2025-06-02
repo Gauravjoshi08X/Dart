@@ -41,6 +41,8 @@ print(dict.length);
 
 print("${dict.values} ${dict.keys}\n");
 
+dict['c']??="Code";  // assigns value if null
+
 print(dict);
 dict.remove('a');
 print(dict);
