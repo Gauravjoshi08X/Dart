@@ -29,4 +29,6 @@ void main()
     Employee emp2=Employee.two("Gaurav Joshi", 32, true);
     print(emp1.name);
     print(emp2.name);
+    print(emp2._id);
+    print(emp2._scholarshipState);
 }

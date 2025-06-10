@@ -22,9 +22,9 @@
         while (flag!=1)
         {
         itemFromFile();
+        try{
         print("\n\nEnter your action:\n1) View Books\n2) Update Books\n3) Delete Books\n4) Talk to Librarian\n5) Exit");
         int action=int.parse(stdin.readLineSync()??'1');
-        try{
         switch (action)
         {
             case 1:
