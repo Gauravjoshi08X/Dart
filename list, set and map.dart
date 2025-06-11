@@ -32,7 +32,7 @@ s1.add(4);
 print(s1);
 
 // Map is a dict.
-Map<String,String> dict={};
+Map<String,String> dict={"0":"Initial Value"};
 dict['a']="Assembly";
 dict['b']="BroCode";
 print(dict.containsKey('a')); //bool
