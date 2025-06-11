@@ -25,9 +25,11 @@ The repository is organized into individual Dart files, each focused on a specif
 - operators.dart: Operator overloading and usage in Dart
 
 ### 🔹 Practice Problems
-- practice_problem_1.dart: [Description of the problem]
+- practice_problem_1.dart: A Simple Library management system with File I/O Basics
+
 - library.txt: Contains a simple Library Management System plan or notes (in Dart)
 
+- practice problem 2: A Simple Expense Tracker which uses all of the necessary OOP Concepts
 ---
 
 ## 🚀 How to Use
